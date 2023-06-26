@@ -1,0 +1,8 @@
+fullscreen
+multisampling
+numpad
+NUMPAD
+Programiv
+Shaderiv
+unsignedinteger
+vsync
